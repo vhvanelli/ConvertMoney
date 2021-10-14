@@ -7,7 +7,7 @@
 > Conversor de moeda, consumindo uma API externa utilizando o fetch
 
 ## Acesse o projeto 👇
-  <a href="https://vhvanelli.github.io/newMoneyCalculator/"> Clique aqui e acesse o projeto </a>
+  <a taget="__blank" href="https://vhvanelli.github.io/newMoneyCalculator/"> Clique aqui e acesse o projeto </a>
 
 ## Stacks Utilizadas
  - JavaScript
